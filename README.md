@@ -1,0 +1,4 @@
+# WeightCalculator
+我介绍我的项目。这个项目是为计算在另一个星球上的人的体重而设计的。你可以输入你在地球上的真实体重，这个程序将它计算到另一个星球。一开始我制作了 3 个行星（太阳、月亮和火星）重力算法来计算人体重量。为了做那个程序，我使用 GUI 平台，它被称为 python tkinter 库。我让用户更舒服。我关闭了这个 GUI 的调整大小，因为它使程序有一些缺点。对于设计，我将背景设为黑色。并输入一些行星图片。字体为白色、红色。有些字体背景是灰色的，显示清楚。
+I present my project. This project is designed for calculating the weight of people on another planet. You can enter your real weight on Earth and the program calculates it to another planet. At first I made 3 planets (sun, moon and mars) gravity algorithm to calculate body weight. To do that program, I use GUI platform, which is called python tkinter library. I make users more comfortable. I turned off resizing for this GUI as it makes the program a bit disadvantageous. For the design, I made the background black. and enter some pictures of planets. Fonts are white and red. Some fonts have a grey background for clarity.
+
