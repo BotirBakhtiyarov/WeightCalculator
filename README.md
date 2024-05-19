@@ -30,7 +30,7 @@ The Weight Calculation Application is a Tkinter-based graphical user interface (
 
 2. **Clone the Repository** (if applicable):
    ```bash
-   git clone https://github.com/your-repo/weight-calculation-app.git
+   git clone https://github.com/BotirBakhtiyarov/WeightCalculator.git
    cd weight-calculation-app
    ```
 
